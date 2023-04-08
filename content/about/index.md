@@ -39,22 +39,20 @@ I am an Honours Graduate in Biology but apart from a year working as a virologis
 
 ***
 >I don't think we could have achieved what we have so far without the enormous commitment you have shown during this period. I am also grateful to your team for their valuable contributions.
-Sue Scrivens
 ***
 (On successful completion of a full job evaluation and regrading of nearly 18,000 employees)
-Head of Human Resources
+Sue Scrivens, Head of Human Resources
 Gloucestershire County Council
 ***
->We congratulate the council in its forward-thinking use of IT and data analysis in supporting your HR teams in achieving a significant reduction in sickness absence. We believe [the council] should share its work more widely so that other authorities can benefit from your experience.
+>We congratulate the council in its forward-thinking use of IT and data analysis in supporting your HR teams in achieving a significant reduction in sickness absence. We believe the council should share its work more widely so that other authorities can benefit from your experience.
 ***
 Audit Commission
 (After formal review of reporting Best Value Performance Indicators)
 ***
 >Please could you accept my congratulations and pass them on to your team for the sterling work you have done in this area to get us where we are.
-Dilys Wynn
 ***
 (On receipt of a report from the Audit Commission)
-Director of Strategy and Standards
+Dilys Wynn, Director of Strategy and Standards
 Gloucestershire County Council
 
 A short after-action report of a typical project I led can be downloaded from here.
@@ -64,7 +62,7 @@ A short after-action report of a typical project I led can be downloaded from he
 Image insert = tenacity + alps + potholing + etc (possibly a carousel)
 I have enjoyed hill walking and mountaineering having survived several alpine seasons. My favourite activity though was potholing having bottomed some of the most serious potholes in the UK. Sadly, ill health and arthritis have largely put paid to that now, so I am developing my skills in photography and IT. I also enjoy the occasional flight using DCS World, a powerful PC based flight simulator.
 
-### Projects I am currently working on for fun and learning.
+### Projects I am currently working on for fun and learning
 
 #### Cycles in the Biosphere
 
