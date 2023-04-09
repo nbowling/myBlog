@@ -31,6 +31,9 @@ pygmentsUseClasses = true
 # disableMarginNotes = true
 
 # Customise your home page menu here:
+[[params.menu]]
+  name = "About me"
+  url = "about/"
 
 [[params.menu]]
   name = "Recent Posts"
@@ -39,10 +42,6 @@ pygmentsUseClasses = true
 [[params.menu]]
   name = "Posts by Tag"
   url = "tags/"
-
-[[params.menu]]
-  name = "About the contents of this example"
-  url = "about/"
 
 [[params.menu]]
   name = "Hugo Themes default example pages"
