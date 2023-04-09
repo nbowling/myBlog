@@ -8,7 +8,11 @@ Hello there...
 
 I'm Nick Bowling, a retired specialist in Human Resources data analysis. Now, I'm working on a number of projects of personal interest to me. This website gives some information about me, introduces these projects and provides ways for you to get involved should you feel inclined.
 
-I'm an Honours Graduate in Biology but apart from a year working as a virologist for the UK Government the first half of my career was spent working with young adults who presented with behavioural and mental health issues. Along the way I collected postgraduate qualifications in Teaching and Social Work. For the last third of my working life I found myself, like so many of my generation, drifting into Information Technology. I became the payroll systems manager for a large UK Local Authority. Part of this role was to provide Human Resources information to senior managers and elected members of the council. I also worked on several large projects including a major SAP implementation. I also led a project implementing a large Government IT project in Gloucestershire. Although highly successful the project was eventually scrapped by the incoming Conservative Government in 2010 (more about this short sighted decision later in my blog).
+I'm an Honours Graduate in Biology but apart from a year working as a virologist for the UK Government the first half of my career was spent working with young adults who presented with behavioural and mental health issues. Along the way I collected postgraduate qualifications in Teaching and Social Work. For the last third of my working life I found myself, like so many of my generation, drifting into Information Technology. I became the payroll systems manager for a large UK Local Authority. Part of this role was to provide Human Resources information to senior managers and elected members of the council.
+
+Laterly I worked on several large projects including a major SAP implementation and leading a project implementing a large Government IT project in Gloucestershire.[^1]
+
+[^1]:Although highly successful the project was eventually scrapped by the incoming Conservative Government in 2010 (more about this short sighted decision later in my blog).
 
 ### Specific Skills and Qualifications
 
