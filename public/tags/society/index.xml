@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Society on Nick Bowling</title>
+    <link>http://example.com/tags/society/</link>
+    <description>Recent content in Society on Nick Bowling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2011-2020 Fabian Tamp</copyright>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI fears</title>
+      <link>http://example.com/posts/ai/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/posts/ai/</guid>
+      <description>&lt;p&gt;+++&lt;/p&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
