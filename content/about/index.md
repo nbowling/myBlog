@@ -84,10 +84,3 @@ I may be interested in paid or voluntary work for organisations that are involve
 
 The Hugo template used for this site is Paperesque by Fabian Tamp. It can be found on the [Hugo](https://themes.gohugo.io/themes/paperesque/) website under themes.
 
-## Contact me
-
-[Suitable icons]
-[Form]
-Name
-Email
-Brief experience and potential contribution.

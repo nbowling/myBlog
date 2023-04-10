@@ -52,8 +52,8 @@ pygmentsUseClasses = true
   url = "tags/hugobasicsite/"
 
 [[params.menu]]
-  name = "Link to theme on Github"
-  url = "https://github.com/capnfabs/paperesque"
+  name = "Contact Me"
+  url = "contact/"
 
 
 # And your top-right menu links here.
