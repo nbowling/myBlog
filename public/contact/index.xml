@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on Nick Bowling</title>
-    <link>http://example.com/contact/</link>
+    <link>https://nickbowling.net/contact/</link>
     <description>Recent content in Contacts on Nick Bowling</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     <copyright>© 2011-2020 Fabian Tamp</copyright>
-    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nickbowling.net/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Me</title>
-      <link>http://example.com/contact/contact/</link>
+      <link>https://nickbowling.net/contact/contact/</link>
       <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/contact/contact/</guid>
+      <guid>https://nickbowling.net/contact/contact/</guid>
       <description>Contact me [Suitable icons] [Form] Name Email Brief experience and potential contribution.</description>
     </item>
     
