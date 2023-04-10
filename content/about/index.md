@@ -42,49 +42,31 @@ Laterly I worked on several large projects including a major SAP implementation 
 ## Some plaudits
 
 ***
->I don't think we could have achieved what we have so far without the enormous commitment you have shown during this period. I am also grateful to your team for their valuable contributions.
+>I don't think we could have achieved what we have so far without the enormous commitment you have shown during this period. I am also grateful to your team for their valuable contributions.[^2]
 ***
 
-<p style="text-align: center;">On successful completion of a full job evaluation and regrading of nearly 18,000 employees
-<br>Sue Scrivens, Head of Human Resources
-<br>Gloucestershire County Council</p>
+[^2]:On successful completion of a full job evaluation and regrading of nearly 18,000 employees.<br> Sue Scrivens, Head of Human Resources Gloucestershire County Council
 
 ***
->We congratulate the council in its forward-thinking use of IT and data analysis in supporting your HR teams in achieving a significant reduction in sickness absence. We believe the council should share its work more widely so that other authorities can benefit from your experience.
+>We congratulate the council in its forward-thinking use of IT and data analysis in supporting your HR teams in achieving a significant reduction in sickness absence. We believe the council should share its work more widely so that other authorities can benefit from your experience.[^3]
 
 ***
-<p style="text-align: center;">Audit Commission
-<br>After formal review of reporting Best Value Performance Indicators</p>
+[^3]:Audit Commission
+<br>After formal review of reporting Best Value Performance Indicators
 
 ***
 
->Please could you accept my congratulations and pass them on to your team for the sterling work you have done in this area to get us where we are.
+>Please could you accept my congratulations and pass them on to your team for the sterling work you have done in this area to get us where we are.[^4]
 ***
-<p style="text-align: center;">On receipt of a report from the Audit Commission
+[^4]:On receipt of a report from the Audit Commission
 <br>Dilys Wynn, Director of Strategy and Standards
-<br>Gloucestershire County Council</p>
+<br>Gloucestershire County Council
 
-A short after-action report of a typical project I led can be downloaded from here.
+A short after-action report of a typical project I led can be downloaded from [here](../The%20Sick%20Authority.pdf).
 
 ## For fun
 
 I have enjoyed hill walking and mountaineering surviving several alpine seasons. My favourite activity though, was potholing having bottomed some of the most serious potholes in the UK. Sadly, ill health and arthritis have largely put paid to that now, so I am developing my skills in photography, art and IT. I also enjoy the occasional flight using [DCS World](https://www.digitalcombatsimulator.com/en/), a powerful PC based flight simulator.
-
-## Projects I am currently working on for fun and learning
-
-### Cycles in the Biosphere
-
-Designed to be an educational resource that covers primary (Key Stage 1) through to postgraduate level. This ambitious aim seeks to cover all the major biogeological cycles and the flow of energy using a range of specific examples, some drawn from current research, with the best that modern web technology can provide. Cycles is already in progress and is set up as a private GitHub repository. At this stage I am hoping there will be a commercial future for Cycles so involvement in this project will be restricted. This may change in the future.
-
-### Book of useful things
-
-Based on Stuff Worth Knowing a handbook written by Paul E Johnson of the University of Kansas. This is an eclectic book sized document that, in my view, I wish had been available to me when I was an undergraduate. I have long wished to write an updated Open-Source version.
-
-### Hyrax
-
-A lightweight, cloud based human resources database that uses AI to make predictions about employee performance and other key HR metrics. The application will be built using the Microsoft stack.
-
-<em>Book of Useful Things and Hyrax are Open Source and will be set up as public GitHub repositories.</em>
 
 ## I'm available for…
 

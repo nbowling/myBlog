@@ -32,8 +32,12 @@ pygmentsUseClasses = true
 
 # Customise your home page menu here:
 [[params.menu]]
-  name = "About me"
+  name = "About Me"
   url = "about/"
+
+[[params.menu]]
+  name = "My current Projects"
+  url = "projects/"
 
 [[params.menu]]
   name = "Recent Posts"
