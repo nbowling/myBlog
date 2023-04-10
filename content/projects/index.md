@@ -19,6 +19,6 @@ Based on Stuff Worth Knowing a handbook written by Paul E Johnson of the Univers
 A lightweight, cloud based human resources database that uses AI to make predictions about employee performance and other key HR metrics. The application will be built using the Microsoft stack.
 
 ### Sciatis
-Is my other [website](http://sciatis.co.uk) which will host more technical content. The site is currently down for a redesign.
+Is my other [website](http://sciatis.co.uk) which will host more technical content including hosting Cycles in the Biosphere. <mark>The site is currently down for a redesign.</mark>
 
 [^1]:Book of Useful Things and Hyrax are Open Source and will be set up as public GitHub repositories.
