@@ -66,7 +66,7 @@ A short after-action report of a typical project I led can be downloaded from [h
 
 ## For fun
 
-I have enjoyed hill walking and mountaineering surviving several alpine seasons. My favourite activity though, was potholing having bottomed some of the most serious potholes in the UK. Sadly, ill health and arthritis have largely put paid to that now, so I am developing my skills in photography, art and IT. I also enjoy the occasional flight using [DCS World](https://www.digitalcombatsimulator.com/en/), a powerful PC based flight simulator.
+I have enjoyed hill walking and mountaineering including several alpine seasons. My favourite activity though, was potholing having bottomed some of the most serious potholes in the UK. Sadly, ill health and arthritis have largely put paid to that now, so I am developing my skills in photography, art and IT. I also enjoy the occasional flight using [DCS World](https://www.digitalcombatsimulator.com/en/), a powerful PC based flight simulator.
 
 ## I'm available for…
 
