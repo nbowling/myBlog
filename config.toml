@@ -1,5 +1,5 @@
 baseURL = "https://nickbowling.net/"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Nick Bowling"
 theme = "paperesque"
 copyright = "© 2011-2020 Fabian Tamp"
