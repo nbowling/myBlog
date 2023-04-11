@@ -48,8 +48,8 @@ pygmentsUseClasses = true
   url = "tags/"
 
 [[params.menu]]
-  name = "Hugo Themes default example pages"
-  url = "tags/hugobasicsite/"
+  name = "For Fun"
+  url = "forfun/"
 
 [[params.menu]]
   name = "Contact Me"

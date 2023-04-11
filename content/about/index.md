@@ -55,7 +55,6 @@ Laterly I worked on several large projects including a major SAP implementation 
 <br>After formal review of reporting Best Value Performance Indicators
 
 ***
-
 >Please could you accept my congratulations and pass them on to your team for the sterling work you have done in this area to get us where we are.[^4]
 ***
 [^4]:On receipt of a report from the Audit Commission
@@ -63,10 +62,6 @@ Laterly I worked on several large projects including a major SAP implementation 
 <br>Gloucestershire County Council
 
 A short after-action report of a typical project I led can be downloaded from [here](../The%20Sick%20Authority.pdf).
-
-## For fun
-
-I have enjoyed hill walking and mountaineering including several alpine seasons. My favourite activity though, was potholing having bottomed some of the most serious potholes in the UK. Sadly, ill health and arthritis have largely put paid to that now, so I am developing my skills in photography, art and IT. I also enjoy the occasional flight using [DCS World](https://www.digitalcombatsimulator.com/en/), a powerful PC based flight simulator.
 
 ## I'm available for…
 
