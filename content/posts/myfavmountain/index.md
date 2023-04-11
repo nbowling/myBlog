@@ -1,9 +1,6 @@
 ---
-date: 2023-04-10
-title: "AI fears"
-tags:
-- AI
-- Society
+title: "My Favorite Mountain Walk"
+date: 2023-04-11T13:24:33+01:00
 draft: true
 ---
 

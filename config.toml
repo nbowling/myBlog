@@ -40,16 +40,16 @@ pygmentsUseClasses = true
   url = "projects/"
 
 [[params.menu]]
+  name = "For Fun"
+  url = "forfun/"
+
+[[params.menu]]
   name = "Recent Posts"
   url = "posts/"
 
 [[params.menu]]
   name = "Posts by Tag"
   url = "tags/"
-
-[[params.menu]]
-  name = "For Fun"
-  url = "forfun/"
 
 [[params.menu]]
   name = "Contact Me"
@@ -59,8 +59,12 @@ pygmentsUseClasses = true
 # And your top-right menu links here.
 
 [[params.topmenu]]
-  name = "my favourite bird"
-  url = "posts/kookaburra/"
+  name = "my favourite mountain"
+  url = "posts/myfavmountain/"
+
+[[params.topmenu]]
+  name = "my favourite pothole"
+  url = "posts/myfavmountain/"
 
 [[params.topmenu]]
   name = "rss"

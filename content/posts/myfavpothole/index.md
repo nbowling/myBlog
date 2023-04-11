@@ -1,9 +1,6 @@
 ---
-date: 2023-04-10
-title: "AI fears"
-tags:
-- AI
-- Society
+title: "My Favorite Pothole"
+date: 2023-04-11T13:30:21+01:00
 draft: true
 ---
 
@@ -41,3 +38,4 @@ Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit 
 .canon { background: white; width: 100%; height: auto; }
 </style>
 {{< /css.inline >}}
+
