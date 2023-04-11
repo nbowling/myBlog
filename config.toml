@@ -64,7 +64,7 @@ pygmentsUseClasses = true
 
 [[params.topmenu]]
   name = "my favourite pothole"
-  url = "posts/myfavmountain/"
+  url = "posts/myfavpothole/"
 
 [[params.topmenu]]
   name = "rss"
